@@ -1,6 +1,7 @@
 #include "passwordManager.h"
 #include <stdio.h>
 #include <string.h>
+#include <stdlib.h>
 
 char * findFile(){
     //get the home location of the current user
